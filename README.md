@@ -1,18 +1,18 @@
 # Credit_Risk_Analytics_EDA
 
-### Introduction
+## Introduction
 The aim of this case study is to perform Risk Analytics with the help of data wrangling and visualisation libraries of Python. The end goal is to derive important insights for the bank to identify the characteristics for bad loan applications.
 
 Domain: Banking Industry
 
-### Basic steps in EDA:
+## Basic steps in EDA:
 - Data Wrangling
 - Univarient Analysis
 - Bivarient Analysis
 - Insights
 #### Insights drawn from this EDA are crucial in critical business decisions that will help improve banking system to modify their loan application functionality
 
-### Some powerful Insights drawn form this EDA are:
+## Some powerful Insights drawn form this EDA are:
 The driving factors for a loan default -
 
 - Lower the highest education of an applicant, higher the chance of loan default. This is one of the core driving factor in loan defaults.
